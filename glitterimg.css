@@ -1,0 +1,45 @@
+.glitter1{
+    background-image: url(./assests/gradientimage.jpeg);
+    height: 300px;
+    width: 800px;
+    margin-top: 170px;
+    display: flex;
+    margin-left: 210px;
+    border-radius: 10px;
+}
+.glitter1 img{
+    height:300px;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.glittertext{
+   display: inline;
+   justify-content: center;
+   align-items: center;
+   padding-top: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+button{
+      background-color: transparent;
+      border: 0.8px solid white;
+      height: 40px;
+      width:120px;
+      font-size: 16px;
+      font-family: sans-serif;
+      color: white;
+      border-radius: 10px;
+}
+
+p{
+    color: white;
+    word-spacing: 3px;
+}

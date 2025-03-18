@@ -1,0 +1,15 @@
+.head{
+    color: blue;
+    text-decoration:5px dotted red underline;
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 3px 1px 3px red;
+}
+
+p{
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 50px;
+}
