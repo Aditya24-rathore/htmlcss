@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    height: 800px;
+    background-color: aquamarine;
+}
+
+.head2 img{
+    height: 400px;
+    padding-left: 200px;
+}
+.head3 i{
+    padding-top: 600px;
+}
+
+
