@@ -1,0 +1,16 @@
+.para::first-letter{
+    font-size: 30px;
+    color: red;
+}
+
+.para::first-line{
+    color: blue;
+}
+
+.tag::after{
+    content:" Rathore";
+}
+
+input::placeholder{
+    color:black;
+}
