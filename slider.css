@@ -1,0 +1,12 @@
+.box2{
+    height: 200px;
+    width: 100%;
+    border:2px solid red;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: repeat(10,100%);
+    overflow: scroll;
+    scrollbar-width: none;
+}

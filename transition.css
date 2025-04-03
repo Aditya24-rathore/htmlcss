@@ -1,0 +1,19 @@
+.child{
+    height: 200px;
+    width:200px;
+    border: 2px solid black;
+    transition: all 2s ease;
+}
+
+.parent{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child:hover{
+    background-color: blue;
+    transform: scale(1.4);
+}
