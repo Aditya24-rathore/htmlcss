@@ -1,0 +1,23 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: reapeat(4,auto);
+}
+
+.ch{
+    background-color: red;
+    border: 2px solid black;
+    height: 200px;
+}
+
+@media screen and (min-width:400px) and (max-width:750){
+    .wrapper {
+        display: grid;
+        grid-template-columns: reapeat(2,auto);
+    } 
+
+    .ch{
+        background-color: red;
+        border: 2px solid black;
+        height: 200px;
+    }
+}
